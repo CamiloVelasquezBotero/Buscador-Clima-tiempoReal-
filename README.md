@@ -4,5 +4,5 @@ Se utiliza una API de (openweathermap) la cual nos provee la informacion del cli
 
 Esta pagina busca el clima en tiempo real, dependiendo la Ciudad y el Pais que se le indique.
 
-Preview: https://buscadordelclima.netlify.app/
+Preview: https://buscador-del-clima-tiempo-real-js.vercel.app/
 
